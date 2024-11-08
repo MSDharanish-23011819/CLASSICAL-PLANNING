@@ -1,4 +1,8 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
+
+# Aim
+To solve Implementation of Classical Planning Algorithm using python
+
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
@@ -47,8 +51,12 @@ print(plan)
 # Please Prepare Solution or Definition For the method find_plan(initial_state, goal_state, actions)
 <h3>You Can use any of the searching Strategies for planning and executing a sequence of actions.<br> You can also look in to the Code given in the Repository.</h3>
 
-# Program:
+# Program
+
 ```
+Name: Shanmathi
+Register Number: 212222100049
+
 def is_goal_state(current_state, goal_state):
     return current_state == goal_state
 
@@ -116,7 +124,9 @@ plan = find_plan(initial_state, goal_state, actions)
 print(plan)
 ```
 
-# Exact Output:
-![alt text](image.png)
-# Result:
+# Output
+
+![image](https://github.com/user-attachments/assets/3504400b-c02e-4383-8b8d-7d0f0a521f74)
+
+# Result
 Therefore,Implementation of Classical Planning Algorithm is implemetated successfully.
